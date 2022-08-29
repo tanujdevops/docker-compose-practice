@@ -1,22 +1,20 @@
-# Client/Server docker-compose example
-You need to use ubuntu machine in aws 
-and clone this repo .
-after that just build and launch. if you see Docker compose is magic it means your app is working
+# Client/Server docker-compose 
 
-## How to run ?
+Create an EC2 Instance in AWS with Ubuntu as the Operating System and clone this repository.
+After that just build and launch. If you see 'Docker compose is magic' it means your application is working.
 
-The project launch is in two parts: build and start.
+#How to Run?
 
-### Build
+The project launch is in two parts: Build and Start.
+
+#Build
 
 ```
 $ docker-compose build
 ```
 
-### Launch
+#Launch
 
 ```
 $ docker-compose up
 ```
-
-
