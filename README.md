@@ -1,7 +1,7 @@
 # Client/Server docker-compose 
 
 Create an EC2 Instance in AWS with Ubuntu as the Operating System and clone this repository.
-After that just build and launch. If you see 'Docker compose is magic' it means your application is working.
+After that just build and launch. If you see 'Docker-Compose is magic' it means your application is working.
 
 #How to Run?
 
